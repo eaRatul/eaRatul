@@ -7,12 +7,12 @@
 
 ### tech_stack.txt (list of things I don't use)
 
-languages `C` `C++` `Python` `Java`
-frontend `HTML` `CSS` `TailwindCSS` `JavaScript` `TypeScript` `ReactJS`
-backend `NPM` `NodeJS` `Express.js`
-mobile `Kotlin`
-database `MongoDB` `MySQL`
-others `Git` `Figma` `LaTeX` `Qt` `Markdown`
+languages `C` `C++` `Python` `Java` <br>
+frontend `HTML` `CSS` `TailwindCSS` `JavaScript` `TypeScript` `ReactJS` <br>
+backend `NPM` `NodeJS` `Express.js` <br>
+mobile `Kotlin` <br>
+database `MongoDB` `MySQL` <br>
+others `Git` `Figma` `LaTeX` `Qt` `Markdown` <br>
 
 <!--
 **eaRatul/eaRatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
