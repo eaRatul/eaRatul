@@ -5,7 +5,7 @@
 -   I like building random unfinished projects
 -   Procastination is my middle name
 
-### tech_stack.txt (list of things I don't use)
+### tech_stack (list of things I don't use)
 
 languages `C` `C++` `Python` `Java` <br>
 frontend `HTML` `CSS` `TailwindCSS` `JavaScript` `TypeScript` `ReactJS` <br>
@@ -13,6 +13,10 @@ backend `NPM` `NodeJS` `Express.js` <br>
 mobile `Kotlin` <br>
 database `MongoDB` `MySQL` <br>
 others `Git` `Figma` `LaTeX` `Qt` `Markdown` <br>
+
+### find_me
+
+`404` `not found`
 
 <!--
 **eaRatul/eaRatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
