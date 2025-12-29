@@ -1,11 +1,11 @@
-## about_me.txt
+## about me.txt
 
 -   I'm a computer science and engineering student
 -   I’m interested in web development and software development
 -   I like building random unfinished projects
 -   Procastination is my middle name
 
-## tech_stack (list of things I don't use)
+## tech stack (list of things I don't use)
 
 - languages `C` `C++` `Python` `Java` <br>
 - frontend `HTML` `CSS` `TailwindCSS` `JavaScript` `TypeScript` `ReactJS` <br>
@@ -14,7 +14,7 @@
 - database `MongoDB` `MySQL` <br>
 - others `Git` `Figma` `LaTeX` `Qt` `Markdown` <br>
 
-## find_me_here
+## find me here (or not)
 
 `404` `not found`
 
